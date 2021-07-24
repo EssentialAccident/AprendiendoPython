@@ -8,3 +8,8 @@ En su último cumpleaños le pregunté a mi sobrino que le gustaría hacer. El m
 
 ## Preparación
 
+Parte del regalo de cumpleaños para  mi sobrino fue una Raspberry Pi 400. Por ese motivo, he decidido hacer este curso en Python. Python viene pre-instalado en la Raspberry Pi. Para seguir este tutorial no es necesario tener una Raspberry Pi. Cualquier computadora es capaz de ejecutar Python. Sin embargo, no entraré en detalles de como instalar Python.
+
+## Clase 0 - La tortuga
+
+Para hacer este curso entretenido, he decidido hacer uso de la libreria Turtle en Python. La primera clase será en aprender como usar la tortuga.
