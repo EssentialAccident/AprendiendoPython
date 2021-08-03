@@ -1,6 +1,9 @@
 # Dependencias
 import turtle
 
+# Cambiando el nombre de la ventana
+turtle.title('Aprendiendo a Programar')
+
 # Creando la tortuga
 tortuga = turtle.Turtle()
 
